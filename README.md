@@ -1,4 +1,4 @@
-# Awesome Deep Learning (https://github.com/yash42828)
+# Awesome Deep Learning
 
 ## Table of Contents
 
